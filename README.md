@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**NOTE 1:**
+Fail-fast means when you try to modify the content when you are iterating thru it, it will fail and throw ConcurrentModificationException.
+
+Set keys = hashMap.keySet();
+for (Object key : keys) {
+    hashMap.put(someObject, someValue); //it will throw the ConcurrentModificationException here
+} 
+For HashTable enumeration:
+
+ Enumeration keys = hashTable.keys();
+ while (keys.hasMoreElements()) {
+          hashTable.put(someKey, someValue);  //this is ok
+    }
+    
+    The Hastable's iterators are fail-fast. Its enumerations are not. 
