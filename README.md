@@ -29,3 +29,5 @@ For HashTable enumeration:
     }
     
     The Hastable's iterators are fail-fast. Its enumerations are not. 
+**NOTE2 :**
+java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties
