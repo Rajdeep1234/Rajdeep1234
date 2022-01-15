@@ -31,3 +31,25 @@ For HashTable enumeration:
     The Hastable's iterators are fail-fast. Its enumerations are not. 
 **NOTE2 :**
 java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties
+
+Low level design
+https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/
+https://github.com/prasadgujar/low-level-design-primer
+https://github.com/donnemartin/system-design-primer
+https://github.com/donnemartin?tab=repositories
+https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+
+Leetcode patterns
+
+https://github.com/seanprashad/leetcode-patterns
+
+https://drive.google.com/file/d/1ao4ZA28zzBttDkuS6MLQI52gDs_CJZEm/view
+https://www.educative.io/courses/grokking-the-coding-interview
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+https://seanprashad.com/leetcode-patterns/
+
+Inerview Questions
+https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=
+
