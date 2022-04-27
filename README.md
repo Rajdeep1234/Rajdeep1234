@@ -6,6 +6,7 @@ Skills:
 
 
 > Backend Technologies: Java, Spring Boot, Rest API, Web Service
+
 > Frontend Technologies: React, JavaScript, HTML, CSS
 > Databases: Oracle, MongoDB, Elasticsearch,solr
 > DevOps: Jenkins, GitHub, Azure, Build Automation, CI/CD
@@ -16,13 +17,9 @@ Skills:
 > System Design
 > Data Structures and Algorithm
 
-
 Following
 
 Netflix Blog - https://netflixtechblog.com/
-
 Uber Engg Blog - https://eng.uber.com/
-
 Google Developers - https://developers.googleblog.com/
-
 High Scalability - http://highscalability.com/
